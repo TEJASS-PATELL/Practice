@@ -9,6 +9,7 @@ int main(){
     int a = 20;
     int b = 40;
     cout<<"Sum of a and b is : "<<sum(a,b);
+    cout<<"multiplication of a and b is : "<<a*b<<endl;
 }
 
 
